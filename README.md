@@ -1,5 +1,5 @@
 # study
-Everyday Study page
+Everyday Study page for Cisco routers and switches
 
 **Cisco Router CLI Commands:**
 
