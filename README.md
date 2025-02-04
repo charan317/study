@@ -73,5 +73,39 @@ Everyday page for Cisco routers and switches commands
 | `show interfaces counters` | Display interface statistics |
 | `debug spanning-tree events` | Debug Spanning Tree events |
 
-This sheet covers essential and advanced Cisco CLI commands for routers and switches!
 
+*** Fortinet ***
+
+Here's a sheet of common Fortinet firewall CLI commands and their purposes:
+
+| **Command**                          | **Purpose**                                                                 |
+|--------------------------------------|-----------------------------------------------------------------------------|
+| `get system status`                  | Displays system information (firmware version, uptime, etc.)                |
+| `get system performance top`         | Shows real-time system performance (CPU, memory, etc.)                      |
+| `show`                               | Displays the current configuration settings for various sections            |
+| `config system global`               | Enter global configuration mode                                             |
+| `config firewall policy`             | Configure firewall policies                                                 |
+| `show firewall policy`               | Displays the current firewall policy configuration                          |
+| `config system interface`            | Configure network interfaces                                                |
+| `show system interface`              | Display network interface settings                                          |
+| `diagnose debug enable`              | Enables debugging for troubleshooting                                       |
+| `diagnose debug console timestamp enable` | Adds timestamp to debug output                                            |
+| `diagnose firewall iprope lookup`    | Displays the connection table and packet statistics                         |
+| `execute reboot`                     | Reboots the Fortinet device                                                 |
+| `execute ping <IP address>`          | Pings a given IP address                                                   |
+| `execute traceroute <IP address>`    | Traces the path packets take to a destination IP address                    |
+| `config system time`                 | Configure system time and NTP settings                                      |
+| `show system time`                   | Displays the current system time                                            |
+| `config log disk setting`            | Configure log settings for disk storage                                     |
+| `execute log filter`                 | Filters logs based on various parameters                                    |
+| `diagnose sys top`                   | Shows a detailed top-like process display                                   |
+| `show firewall address`              | Displays all defined address objects                                        |
+| `config firewall address`            | Add or modify address objects for firewall rules                            |
+| `show vpn ipsec phase1`              | Displays phase 1 of an IPSec VPN configuration                              |
+| `config vpn ipsec phase1`            | Configure Phase 1 settings for IPSec VPN                                    |
+| `execute factoryreset`               | Resets the device to factory settings                                       |
+| `config system dns`                  | Configure DNS settings for the device                                       |
+| `show system dns`                    | Displays current DNS settings                                               |
+| `show system performance firewall`   | Displays firewall-specific performance statistics                           |
+
+These are just a few of the common commands. Let me know if you need more!
