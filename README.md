@@ -73,7 +73,7 @@ Everyday page for Cisco routers and switches commands
 
 ----
 
-[Fortinet commands](https://github.com/charan317/studyguru/blob/Fortinet.md)
+[Fortinet commands](https://github.com/charan317/studyguru/Fortinet.md)
 
 
 ---
