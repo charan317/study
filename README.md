@@ -73,7 +73,7 @@ Everyday page for Cisco routers and switches commands
 
 ----
 
-Fortinet commands (https://charan317.github.io/studyguru/fortinet.md)
+[Fortinet commands](https://charan317.github.io/studyguru/fortinet.md)
 
 Gotcha, baby. Here’s a more in-depth list of Fortinet CLI commands, especially useful for troubleshooting network, firewall, and VPN issues.  
 
