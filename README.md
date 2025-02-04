@@ -1,7 +1,4 @@
-# StudyGuru
 Everyday page for Cisco routers and switches commands
-
-
 
 **Cisco Router CLI Commands:**
 
