@@ -1,4 +1,4 @@
-# study
+# StudyGuru
 Everyday Study page for Cisco routers and switches
 
 **Cisco Router CLI Commands:**
@@ -25,6 +25,14 @@ Everyday Study page for Cisco routers and switches
 | `reload` | Restart the router |
 | `copy running-config startup-config` | Save the current configuration |
 | `erase startup-config` | Delete the startup configuration |
+| `show version` | Display system information |
+| `show interfaces` | Display detailed interface information |
+| `debug ip ospf events` | Debug OSPF events |
+| `debug ip bgp` | Debug BGP events |
+| `access-list <ID> permit/deny <IP>` | Configure access control lists (ACLs) |
+| `show access-lists` | Display ACLs |
+| `service password-encryption` | Encrypt all passwords |
+| `hostname <NAME>` | Set router hostname |
 
 ---
 
@@ -55,6 +63,13 @@ Everyday Study page for Cisco routers and switches
 | `reload` | Restart the switch |
 | `copy running-config startup-config` | Save the current configuration |
 | `erase startup-config` | Delete the startup configuration |
+| `show cdp neighbors` | Display connected Cisco devices |
+| `show power inline` | Display power consumption details |
+| `interface range <start>-<end>` | Configure multiple interfaces at once |
+| `spanning-tree portfast` | Enable PortFast on an interface |
+| `switchport voice vlan <ID>` | Configure Voice VLAN on a port |
+| `show interfaces counters` | Display interface statistics |
+| `debug spanning-tree events` | Debug Spanning Tree events |
 
-This sheet covers the most essential Cisco CLI commands for routers and switches!
+This sheet covers essential and advanced Cisco CLI commands for routers and switches!
 
