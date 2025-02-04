@@ -1,0 +1,2 @@
+# study
+Everyday Study page
