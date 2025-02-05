@@ -1,5 +1,8 @@
 Everyday page for Cisco routers and switches commands
 
+
+This is a reference page to help find right commands during troubleshooting. 
+
 **Cisco Router CLI Commands:**
 
 | Command | Purpose |
